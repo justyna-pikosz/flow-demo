@@ -1,3 +1,2 @@
-Witaj świecie
-jest git
+:jest git
 nowy fivzer
